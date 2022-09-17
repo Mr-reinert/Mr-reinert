@@ -1,7 +1,7 @@
 ### Como vai? sou Tarcisio Reinert Neto!
 
 - 🌱 Estudante de Ciências da Computação  
-- 🤔 procurando por conhecimento 
+- 🤔 procurando por conhecimento!
 - 📫 contate-me no email: reinert.neto@gmail.com
 
 <div align="left">

@@ -2,7 +2,7 @@
 ##
 
 - 🌱 Estudante de Ciências da Computação  
-- 🤔 procurando por conhecimento!
+- 🤔 Análise...
 - 📫 contate-me no email: reinert.neto@gmail.com
 ##
 <div align="left">

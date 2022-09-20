@@ -1,8 +1,10 @@
 ### Como vai? sou Tarcisio Reinert Neto!
 ##
+
 - 🌱 Estudante de Ciências da Computação  
 - 🤔 Análise...
 - 📫 contate-me no email: reinert.neto@gmail.com
+
 ##
 <div align="left">
   <a href="https://github.com/Mr-reinert">

@@ -19,7 +19,7 @@
   <img align="right" alt="Ciso-pic" height="150" style="border-radius:50px;" 
   src="https://cdn.discordapp.com/attachments/951664167272738889/1020932585494413322/-_____-____-.png?width=676&height=676">
 </div>
-
+##
 
 <div align="left"> 
   <a href="https://www.instagram.com/reinert_tarcisio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

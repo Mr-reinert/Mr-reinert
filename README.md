@@ -30,4 +30,4 @@
 
 </div>
 
-  ![GitHub Snake](https://raw.githubusercontent.com/Mr-reinert/Mr-reinert/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Mr-reinert/Mr-reinert/blob/output/github-contribution-grid-snake.svg)

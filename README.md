@@ -17,8 +17,7 @@
   <img align="center" alt="Ciso-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ciso-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Ciso-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Ciso-pic" height="150" style="border-radius:50px;" 
-  src="https://cdn.discordapp.com/attachments/951664167272738889/1020932585494413322/-_____-____-.png?width=676&height=676">
+  <img align="center" alt="Ciso-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
 ##

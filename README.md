@@ -7,10 +7,10 @@
 - XX y
 
 ##
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-reinert&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-reinert&show_icons=true&theme=dracula)
 <div align="left">
   <a href="https://github.com/Mr-reinert">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-reinert&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-reinert&show_icons=true)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ciso-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

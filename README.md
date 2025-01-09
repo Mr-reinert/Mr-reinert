@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9b4dca&height=120&section=header"/>
+
 ![](https://komarev.com/ghpvc/?username=Mr-reinert&color=006bed)
 
 ## :earth_americas: &nbsp;Onde me encontrar: 
@@ -56,14 +58,17 @@ Demonstro um forte interesse em trabalhar no mercado de desenvolvimento tecnoló
   ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
 <br/>
+<br/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mr-reinert&show_icons=true&count_private=true&hide_border=false&title_color=9b4dca&icon_color=9b4dca&text_color=9b4dca&bg_color=0d1117" alt="Tarcisio Reinert github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-reinert&layout=compact&hide_border=false&title_color=9b4dca&text_color=9b4dca&bg_color=0d1117" />
+</div>
+<br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-reinert&bg_color=0d1117&color=9b4dca&line=9b4dca&point=94b8ff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-<a href="https://github.com/MrVtR">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MrVtR&count_private=true&show_icons=true&theme=synthwave" />
-</a>
-<a href="https://github.com/MrVtR">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-reinert&langs_count=8&layout=compact" />
-</a>
-</p
+  <img src="https://github-profile-trophy.vercel.app/?username=Mr-reinert&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-<br/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9b4dca&height=120&section=footer"/>

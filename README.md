@@ -17,10 +17,10 @@
 
 Em 2023, fui selecionado para o NPOR, destacando-me entre mais de 2.000 candidatos. Especializei-me em artilharia, obtendo a 6ª melhor nota, com ênfase em topografia, desenvolvendo habilidades de liderança e trabalho em equipe. Tenho habilidades em Python, SQL, Machine Learning, análise e visualização de dados, MySQL, HTML, CSS e Git/GitHub. Meu inglês é intermediário e sou dedicado à inovação e aprendizado contínuo</p>
  <p>
-Demonstro um forte interesse em trabalhar no mercado de desenvolvimento tecnológico, focando especialmente na área de <b>Ciência de Dados</b> e Computação em Nuvem. Meu objetivo é criar e aplicar soluções inovadoras com potencial para ter um impacto global significativo. Tenho afinidade com plataformas como Google Cloud, Azure e AWS, bem como com as tecnologias Python e Jupyter Notebook, pois são nesses pontos que meus interesses se convergem.
+Demonstro um forte interesse em trabalhar no mercado de desenvolvimento tecnológico, focando especialmente na área de <b>Ciência de Dados</b> e Inteligência artificial e Machine learning. Meu objetivo é criar e aplicar soluções inovadoras com potencial para ter um impacto global significativo. Tenho afinidade com análise de dados bem como com as tecnologias Python e Jupyter Notebook, pois são nesses pontos que meus interesses se convergem.
 </p>
 <p>
-  Atualmente, sou estagiário na Omega Automação (Linx), atuando com suporte e manutenção do sistema Autosystem, servidores Linux e PostgreSQL.
+  Atualmente, sou estagiário na Omega Automação (Linx), atuando com suporte e manutenção do sistema Autosystem, servidores Linux e banco de dados PostgreSQL.
   </p>
   <p>
 

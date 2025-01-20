@@ -13,7 +13,7 @@
 
 # :rocket: Sobre mim
 <p align="left"> 
-  Sou Tarcisio Reinert Neto, estudante de Ciências da Computação no Gran Centro Universitário (quinto período). Busco uma oportunidade de estágio em Ciência de Dados para aplicar e expandir meus conhecimentos em análise, tratamento de dados e aprendizado de máquina (machine learning). Atualmente, sou estagiário na Omega Automação (Linx), atuando com suporte e manutenção do sistema Autosystem, servidores Linux e PostgreSQL.
+  Sou Tarcisio Reinert Neto, estudante de Ciências da Computação no Gran Centro Universitário (sétimo período). Busco uma oportunidade de estágio em Ciência de Dados para aplicar e expandir meus conhecimentos em análise, tratamento de dados e aprendizado de máquina (machine learning). Atualmente, sou estagiário na Omega Automação (Linx), atuando com suporte e manutenção do sistema Autosystem, servidores Linux e PostgreSQL.
 
 Em 2023, fui selecionado para o NPOR, destacando-me entre mais de 2.000 candidatos. Especializei-me em artilharia, obtendo a 6ª melhor nota, com ênfase em topografia, desenvolvendo habilidades de liderança e trabalho em equipe. Tenho habilidades em Python, SQL, Machine Learning, análise e visualização de dados, MySQL, HTML, CSS e Git/GitHub. Meu inglês é intermediário e sou dedicado à inovação e aprendizado contínuo</p>
  <p>

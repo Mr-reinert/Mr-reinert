@@ -31,26 +31,17 @@ Demonstro um forte interesse em trabalhar no mercado de desenvolvimento tecnoló
   
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=flat&logo=seaborn&logoColor=white) 
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit%2Dlearn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit%2Dlearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
   
 
 ## :game_die: **Banco de Dados**
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)  
 
-## :atom_symbol: **Desenvolvimento Web Front-End e Back-End**    
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)  
-
-
-## :wrench: **Utilidades**
-
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-FFB81C?style=flat&logo=powerbi&logoColor=white)
-
-## :infinity: **DevOps**
+## :infinity: **MlOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ## **:gear: Ferramentas de Desenvolvimento**
 
@@ -60,6 +51,16 @@ Demonstro um forte interesse em trabalhar no mercado de desenvolvimento tecnoló
   ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white)
   ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
+
+## :atom_symbol: **Desenvolvimento e APIs**  
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)  ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) 
+
+## :wrench: **Utilidades**
+
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-FFB81C?style=flat&logo=powerbi&logoColor=white)
+  
+
+
 <br/>
 <br/>
 <div align="center">  

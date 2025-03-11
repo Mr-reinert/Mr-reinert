@@ -59,8 +59,6 @@ Demonstro um forte interesse em trabalhar no mercado de desenvolvimento tecnoló
 
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-FFB81C?style=flat&logo=powerbi&logoColor=white)
   
-
-
 <br/>
 <br/>
 <div align="center">  
@@ -69,10 +67,5 @@ Demonstro um forte interesse em trabalhar no mercado de desenvolvimento tecnoló
 </div>
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-reinert&bg_color=0d1117&color=9b4dca&line=9b4dca&point=94b8ff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mr-reinert&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9b4dca&height=120&section=footer"/>

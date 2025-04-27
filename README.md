@@ -13,16 +13,20 @@
 
 # :rocket: Sobre mim
 <p align="left"> 
-  Sou Tarcisio Reinert Neto, estudante de Ciências da Computação no Gran Centro Universitário (sétimo período). Busco uma oportunidade na area de Dados para aplicar e expandir meus conhecimentos em análise, tratamento de dados e aprendizado de máquina (machine learning). Atualmente, sou estagiário na Omega Automação (Linx), atuando com suporte e manutenção do sistema Autosystem, servidores Linux e PostgreSQL.
-
-Em 2023, fui selecionado para o NPOR, destacando-me entre mais de 2.000 candidatos. Especializei-me em artilharia, obtendo a 6ª melhor nota, com ênfase em topografia, desenvolvendo habilidades de liderança e trabalho em equipe. Tenho habilidades em Python, SQL, Machine Learning, análise e visualização de dados, MySQL, HTML, CSS e Git/GitHub. Meu inglês é intermediário e sou dedicado à inovação e aprendizado contínuo</p>
- <p>
-Demonstro um forte interesse em trabalhar no mercado de desenvolvimento tecnológico, focando especialmente na área de <b>Ciência de Dados</b> e Inteligência artificial e Machine learning. Meu objetivo é criar e aplicar soluções inovadoras com potencial para ter um impacto global significativo. Tenho afinidade com análise de dados bem como com as tecnologias Python e Jupyter Notebook, pois são nesses pontos que meus interesses se convergem.
+  Sou Tarcisio Reinert Neto, estudante de Ciência da Computação no Gran Centro Universitário (7º período), com forte interesse em atuar na área de Dados, especialmente em Análise, Machine Learning e Inteligência Artificial.
 </p>
 <p>
-  Atualmente, sou estagiário na Omega Automação (Linx), atuando com suporte e manutenção do sistema Autosystem, servidores Linux e banco de dados PostgreSQL.
-  </p>
-  <p>
+  Atualmente, sou estagiário na Omega Automação (franquia Linx), onde atuo com suporte técnico e manutenção do sistema Autosystem, servidores Linux e banco de dados PostgreSQL.
+</p>
+<p>
+  Em 2023, fui selecionado para o NPOR, destacando-me entre mais de 2.000 candidatos e obtendo a 6ª melhor nota na formação em Artilharia, com foco em topografia. Essa experiência fortaleceu minhas habilidades de liderança, disciplina e trabalho em equipe.
+</p>
+<p>
+  Tenho conhecimentos em <b>Python</b>, <b>SQL</b>, <b>Machine Learning</b>, <b>análise e visualização de dados</b>, <b>PostgreSQL</b>, <b>MySQL</b> e <b>Git/GitHub</b>. Meu inglês é intermediário e sou dedicado à inovação e ao aprendizado contínuo.
+</p>
+<p>
+  Demonstro um forte interesse em trabalhar no mercado de desenvolvimento tecnológico, focando especialmente na área de <b>Ciência de Dados</b>, <b>Inteligência Artificial</b> e <b>Machine Learning</b>. Meu objetivo é desenvolver soluções inovadoras utilizando dados e algoritmos inteligentes para gerar impacto positivo em escala global.
+</p>
 
 # :open_book: **Skills para Aplicações e Dados**
 
